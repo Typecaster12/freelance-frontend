@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "<i class='bx bxs-category-alt'></i>",
+        "title": "Over 200 categories",
+        "para": "Get results from skilled freelancers from all over the world, for every task, at any price point."
+    },
+    {
+        "icon": "<i class='bx bxs-purchase-tag'></i>",
+        "title": "Clear, transparent pricing",
+        "para": "Pay per project or by the hour (Pro). Payments only get released when you approve."
+    },
+    {
+        "icon": "<i class='bx bx-cloud-lightning'></i>",
+        "title": "Quality work done faster",
+        "para": "Filter to find the right freelancers quickly and get great work delivered in no time, every time"
+    },
+    {
+        "icon": "<i class='bx bxs-time-five'></i>",
+        "title": "24/7 award-winning support",
+        "para": "Chat with our team to get your questions answered or resolve any issues with your orders"
+    }
+]

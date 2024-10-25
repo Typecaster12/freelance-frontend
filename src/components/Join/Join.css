@@ -1,0 +1,55 @@
+.join-container {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.join-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('src/assets/img1.jpg') center center/cover;
+    opacity: 0.8;
+    z-index: -1;
+    border-radius: 20px;
+}
+
+.join-container h1 {
+    font-size: 4rem;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+
+.join-container span {
+    font-size: 4rem;
+    font-weight: 400;
+    color: #38040e;
+}
+
+.btn {
+    border: none;
+    cursor: pointer;
+    padding: 12px 24px;
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: all .3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #38040e;
+    color: white;
+}
